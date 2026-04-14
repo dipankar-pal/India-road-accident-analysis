@@ -60,6 +60,7 @@ Compared month-over-month accident trends
 Used LAG() function to calculate:
 Previous month accidents
 Monthly change
+--
 🛠️ SQL Concepts Used
 Aggregations (COUNT, SUM, AVG)
 Window Functions:
